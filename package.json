@@ -1,0 +1,14 @@
+{
+  "name": "vertigo-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kaelhem/vertigo-project.git",
+  "author": "Klem <kaelhem@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "get-pixels": "^3.3.2",
+    "rgba-convert": "^0.3.0",
+    "save-pixels": "^2.3.4",
+    "zeros": "^1.0.0"
+  }
+}
